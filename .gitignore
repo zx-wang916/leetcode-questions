@@ -1,0 +1,12 @@
+.DS_Store
+.gitignore.swp
+.idea/
+leetcode-questions.iml
+src/.DS_Store
+src/leetcode/.DS_Store
+src/leetcode/editor/.DS_Store
+src/leetcode/editor/en/.DS_Store
+src/leetcode/editor/en/doc/.DS_Store
+src/leetcode/editor/en/doc/content/
+src/leetcode/editor/en/doc/solution/
+src/leetcode/editor/en/doc/submission/
