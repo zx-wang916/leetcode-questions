@@ -79,7 +79,8 @@ class Solution {
         int l = 0, r = 1;
 
         // base case
-        if (nums.length < 2) return 1;
+        // empty list or list only contain 1 element.
+        if (nums.length < 2) return nums.length;
 
         while (r < nums.length) {
             if (nums[l] == nums[r]) r++;
