@@ -12,9 +12,10 @@ class Solution {
         int n = nums.length;
         if (n < 3) return n;
 
+        // change k to any nums that >=1
         final int k = 2;
 
-        int m = 1;
+        int m = 1;  // pointer for new array
         int count = 1;
 
         for (int i = 1; i < n; i++) {
@@ -25,7 +26,8 @@ class Solution {
                 if (count < k) {
                     nums[m++] = nums[i];
                 }
-                count++;
+                count++; // increment count after checking,
+                         // as count was initialised to be 1.
             }
         }
         return m;
