@@ -11,4 +11,6 @@ Used to collect good solutions and approaches for Leetcode questions.
 
 - [P26_RemoveDuplicatesFromSortedArray](./src/leetcode/editor/en/doc/note/P26_RemoveDuplicatesFromSortedArray.md)
 - [P80_RemoveDuplicatesFromSortedArrayII & III](./src/leetcode/editor/en/doc/note/P80_RemoveDuplicatesFromSortedArrayIi.md)
+- [P977_SquaresOfASortedArray](./src/leetcode/editor/cn/doc/note/P977_SquaresOfASortedArray.md)
+- [P189_RotateArray](./src/leetcode/editor/cn/doc/note/P189_RotateArray.md)
 
