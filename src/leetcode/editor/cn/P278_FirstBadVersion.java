@@ -1,4 +1,4 @@
-package leetcode.editor.en;
+package leetcode.editor.cn;
 
 /**
  * 第一个错误的版本
