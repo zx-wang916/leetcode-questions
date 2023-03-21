@@ -13,4 +13,6 @@ Used to collect good solutions and approaches for Leetcode questions.
 - [P80_RemoveDuplicatesFromSortedArrayII & III](./src/leetcode/editor/en/doc/note/P80_RemoveDuplicatesFromSortedArrayIi.md)
 - [P977_SquaresOfASortedArray](./src/leetcode/editor/cn/doc/note/P977_SquaresOfASortedArray.md)
 - [P189_RotateArray](./src/leetcode/editor/cn/doc/note/P189_RotateArray.md)
+- [P283_MoveZeroes](./src/leetcode/editor/cn/doc/note/P283_MoveZeroes.md)
+- [P167_TwoSum II](./src/leetcode/editor/cn/doc/note/P167_TwoSumIiInputArrayIsSorted.md)
 
