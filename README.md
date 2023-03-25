@@ -15,4 +15,8 @@ Used to collect good solutions and approaches for Leetcode questions.
 - [P189_RotateArray](./src/leetcode/editor/cn/doc/note/P189_RotateArray.md)
 - [P283_MoveZeroes](./src/leetcode/editor/cn/doc/note/P283_MoveZeroes.md)
 - [P167_TwoSum II](./src/leetcode/editor/cn/doc/note/P167_TwoSumIiInputArrayIsSorted.md)
+- [P344_ReverseString](./src/leetcode/editor/cn/doc/note/P344_ReverseString.md)
+- [P557_ReverseWordsInAString III](./src/leetcode/editor/cn/doc/note/P557_ReverseWordsInAStringIii.md)
 
+## LinkedList
+- [P876_MiddleOfTheLinkedList](./src/leetcode/editor/cn/doc/note/P876_MiddleOfTheLinkedList.md)
