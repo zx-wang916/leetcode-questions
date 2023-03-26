@@ -20,3 +20,8 @@ Used to collect good solutions and approaches for Leetcode questions.
 
 ## LinkedList
 - [P876_MiddleOfTheLinkedList](./src/leetcode/editor/cn/doc/note/P876_MiddleOfTheLinkedList.md)
+- [P19_RemoveNthNodeFromEndOfList](./src/leetcode/editor/cn/doc/note/P19_RemoveNthNodeFromEndOfList.md)
+
+## Sliding Window
+- [P3_LongestSubstringWithoutRepeatingCharacters](./src/leetcode/editor/cn/doc/note/P3_LongestSubstringWithoutRepeatingCharacters.md)
+- [P567_PermutationInString](./src/leetcode/editor/cn/doc/note/P567_PermutationInString.md)
