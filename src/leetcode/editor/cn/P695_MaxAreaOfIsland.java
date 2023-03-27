@@ -10,7 +10,7 @@ class Solution {
     private int[] dx = new int[] {-1, 1, 0, 0};
     private int[] dy = new int[] {0, 0, -1, 1};
     public int maxAreaOfIsland(int[][] grid) {
-        int maxArea = -1;
+        int maxArea = 0;
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[i].length; j++) {
                 if (grid[i][j] == 1) {
@@ -22,7 +22,7 @@ class Solution {
     }
 
     private int dfs(int[][] grid, int x, int y) {
-        if (x < 0 || x >= grid.length || y < 0 || y >= grid[0].length || grid[x][y] == 0) {
+        if (x < 0 || x >= grid.length || y < 0 || y >= grid[x].length || grid[x][y] == 0) {
             return 0;
         }
 
