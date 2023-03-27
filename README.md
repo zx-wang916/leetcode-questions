@@ -25,3 +25,8 @@ Used to collect good solutions and approaches for Leetcode questions.
 ## Sliding Window
 - [P3_LongestSubstringWithoutRepeatingCharacters](./src/leetcode/editor/cn/doc/note/P3_LongestSubstringWithoutRepeatingCharacters.md)
 - [P567_PermutationInString](./src/leetcode/editor/cn/doc/note/P567_PermutationInString.md)
+
+## BFS & DFS
+
+- [P733_FloodFill](./src/leetcode/editor/cn/doc/note/P733_FloodFill.md)
+- [P695_MaxAreaOfIsland](./src/leetcode/editor/cn/doc/note/P695_MaxAreaOfIsland.md)
