@@ -30,3 +30,5 @@ Used to collect good solutions and approaches for Leetcode questions.
 
 - [P733_FloodFill](./src/leetcode/editor/cn/doc/note/P733_FloodFill.md)
 - [P695_MaxAreaOfIsland](./src/leetcode/editor/cn/doc/note/P695_MaxAreaOfIsland.md)
+- [P116_PopulatingNextRightPointersInEachNode](./src/leetcode/editor/cn/doc/note/P116_PopulatingNextRightPointersInEachNode.md)
+- [P617_MergeTwoBinaryTrees](./src/leetcode/editor/cn/doc/note/P617_MergeTwoBinaryTrees.md)
